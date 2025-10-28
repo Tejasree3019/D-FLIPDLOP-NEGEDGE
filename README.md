@@ -54,10 +54,11 @@ Qbar=~D;
 end
 endmodule
 ```
+
  Developed by: Tejasree.K
- ```
+ 
  RegisterNumber: 212224240168
-```
+
 
 **RTL LOGIC FOR FLIPFLOPS**
 
